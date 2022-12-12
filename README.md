@@ -4,4 +4,4 @@
 
 ANALYSING WHATSAPP CHAT...
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/imabhishekmahli/whatsapp_chat_analyzer/blob/main/images/Screenshot%20(7).png)
